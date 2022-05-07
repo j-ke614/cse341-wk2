@@ -1,0 +1,23 @@
+{
+    "contact":{
+        "firstName": "Carl",
+        "lastName": "Gauss",
+        "email": "cgthemathman@test.com",
+        "favoriteColor": "Blue",
+        "birthday": "4/30/1777"
+    },
+    "contact2":{
+        "firstName": "George",
+        "lastName": "Bool",
+        "email": "Booleanemail@test.com",
+        "favoriteColor": "Blue",
+        "birthday": "11/2/1815"
+    },
+    "contact3":{
+        "firstName": "Lewis",
+        "lastName": "Carol",
+        "email": "writemeacarol@test.com",
+        "favoriteColor": "Blue",
+        "birthday": "1/14/1898"
+    }
+}
