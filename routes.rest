@@ -10,10 +10,10 @@ GET http://localhost:8080/contacts/6276d3847f064b186132867c
 
 // PRODUCTION Deploy 
 ### 
-GET https://cse341-instructor.herokuapp.com/contacts 
+GET https://cse341-week2.herokuapp.com/contacts 
 ### 
-GET https://cse341-instructor.herokuapp.com/contacts/6276d3847f064b186132867a 
+GET https://cse341-week2.herokuapp.com/contacts/6276d3847f064b186132867a 
 ### 
-GET https://cse341-instructor.herokuapp.com/contacts/6276d3847f064b186132867b 
+GET https://cse341-week2.herokuapp.com/contacts/6276d3847f064b186132867b 
 ### 
-GET https://cse341-instructor.herokuapp.com/contacts/6276d3847f064b186132867c
+GET https://cse341-week2.herokuapp.com/contacts/6276d3847f064b186132867c
