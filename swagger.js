@@ -6,7 +6,7 @@ const doc = {
         description: 'Temple API',
     
     },
-    host: 'https://cse341mode-robboss.herokuapp.com/',
+    host: 'https://cse341-wk2.herokuapp.com/',
     schemes: ['https'],
 };
 
